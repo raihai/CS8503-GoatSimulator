@@ -184,7 +184,7 @@
     <ClCompile Include="H:\Desktop\CSC8503\CSC8503CoreClasses\PhysicsSystem.cpp">
       <Filter>Physics</Filter>
     </ClCompile>
-    <ClCompile Include="H:\Desktop\CSC8503\CSC8503CoreClasses\PhysicsSystem.h">
+    <ClCompile Include="H:\Desktop\CSC8503\CSC8503CoreClasses\PHYSICSSYSTEM.H">
       <Filter>Physics</Filter>
     </ClCompile>
     <ClCompile Include="H:\Desktop\CSC8503\CSC8503CoreClasses\enet\callbacks.c">
